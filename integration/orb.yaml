@@ -1,2 +1,7 @@
 type: meya.orb.integration
 identity_verification: false
+theme:
+  brand_color: '#008995'
+launcher:
+  type: message
+  text: Try me!
